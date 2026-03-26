@@ -20,11 +20,11 @@ Electronics Engineer turned cloud architect. Passionate about everything I do, I
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,cpp,react&theme=dark" alt="Languages" /><img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly" />
+<img src="https://skillicons.dev/icons?i=py,ts,cpp,react&theme=dark" alt="Languages" />&nbsp;<img src="https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly" />
 
 **Libraries & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=graphql,latex&theme=dark" alt="Libraries and Frameworks" /><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Boto3" /><img src="https://img.shields.io/badge/ARM_Architecture-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Architecture" />
+<img src="https://skillicons.dev/icons?i=graphql,latex&theme=dark" alt="Libraries and Frameworks" />&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Boto3" />&nbsp;<img src="https://img.shields.io/badge/ARM_Architecture-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Architecture" />
 
 **Tools & Platforms**
 
@@ -60,7 +60,7 @@ Electronics Engineer turned cloud architect. Passionate about everything I do, I
 <br/>
 
 <div align="center">
-  <sub>👋 Interested in working together? <a href="https://github.com/anurag-as/anurag-as/raw/main/cv/AnuragAS_CV.pdf">📄 Download my CV</a></sub>
+  <p>👋 Interested in working together? <a href="https://github.com/anurag-as/anurag-as/raw/main/cv/AnuragAS_CV.pdf">📄 Download my CV</a></p>
 </div>
 
 <div align="center">
