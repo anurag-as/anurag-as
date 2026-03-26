@@ -10,7 +10,7 @@
 
 Electronics Engineer working on large scale distributed systems software problems. Passionate about everything I do, I thrive on solving the most ambiguous problems.
 
-*My experience spans from foundational hardware and CPU architectural design all the way up to cloud-scale software architecture.*
+*My experience spans from foundational hardware and CPU architectural design at Arm all the way up to cloud-scale software architecture at Amazon.*
 
 ## 💼 Experience
 
