@@ -1,0 +1,79 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d0221; }
+      .line { stroke: #2d1b69; stroke-width: 2; }
+      .dot { fill: #c084fc; }
+      .dot-ring { fill: none; stroke: #c084fc; stroke-width: 1.5; }
+      .dot-ping { fill: none; stroke: #c084fc; stroke-width: 1.5; animation: ping 1.8s ease-out infinite; animation-delay: 1s; }
+      .company { fill: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 15px; font-weight: 700; }
+      .role { fill: #c084fc; font-family: 'Segoe UI', sans-serif; font-size: 12px; }
+      .date { fill: #6b7280; font-family: 'Segoe UI', sans-serif; font-size: 11px; }
+
+      .entry1 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.1s; opacity: 0; }
+      .entry2 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.4s; opacity: 0; }
+      .entry3 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.7s; opacity: 0; }
+      .dot1   { animation: popIn 0.4s ease forwards; animation-delay: 0.1s; opacity: 0; }
+      .dot2   { animation: popIn 0.4s ease forwards; animation-delay: 0.4s; opacity: 0; }
+      .dot3   { animation: popIn 0.4s ease forwards; animation-delay: 0.7s; opacity: 0; }
+      .vline  { animation: growLine 0.8s ease forwards; animation-delay: 0s; transform-origin: top; transform: scaleY(0); }
+
+      @keyframes ping {
+        0%   { r: 11; opacity: 0.8; }
+        100% { r: 22; opacity: 0; }
+      }
+      @keyframes fadeSlide {
+        from { opacity: 0; transform: translateX(18px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes popIn {
+        from { opacity: 0; transform: scale(0); }
+        to   { opacity: 1; transform: scale(1); }
+      }
+      @keyframes growLine {
+        from { transform: scaleY(0); }
+        to   { transform: scaleY(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="260" rx="12" class="bg" />
+
+  <!-- Vertical timeline line -->
+  <line x1="60" y1="40" x2="60" y2="220" class="line vline" />
+
+  <!-- Entry 1: Amazon -->
+  <g class="dot1">
+    <circle cx="60" cy="60" r="7" class="dot" />
+    <circle cx="60" cy="60" r="11" class="dot-ring" />
+    <circle cx="60" cy="60" r="11" class="dot-ping" />
+  </g>
+  <g class="entry1">
+    <text x="85" y="56" class="company">Amazon</text>
+    <text x="85" y="72" class="role">Software Development Engineer</text>
+    <text x="85" y="87" class="date">Apr 2022 – Apr 2025</text>
+  </g>
+
+  <!-- Entry 2: Arm -->
+  <g class="dot2">
+    <circle cx="60" cy="140" r="7" class="dot" />
+    <circle cx="60" cy="140" r="11" class="dot-ring" />
+  </g>
+  <g class="entry2">
+    <text x="85" y="136" class="company">Arm</text>
+    <text x="85" y="152" class="role">CPU Engineer</text>
+    <text x="85" y="167" class="date">Jul 2019 – Apr 2022</text>
+  </g>
+
+  <!-- Entry 3: LogMeIn -->
+  <g class="dot3">
+    <circle cx="60" cy="210" r="7" class="dot" />
+    <circle cx="60" cy="210" r="11" class="dot-ring" />
+  </g>
+  <g class="entry3">
+    <text x="85" y="206" class="company">LogMeIn</text>
+    <text x="85" y="222" class="role">Intern</text>
+    <text x="85" y="237" class="date">Jan 2019 – Jul 2019</text>
+  </g>
+</svg>
