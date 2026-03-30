@@ -42,7 +42,7 @@ Electronics Engineer working on large scale distributed systems software problem
     <td valign="top" width="50%">
       <h3><a href="https://github.com/anurag-as/Bonsai">🌳 Bonsai</a></h3>
       <p>A self-tuning Rust library that transparently switches between spatial index structures at runtime to maintain optimal query performance as your data evolves.</p>
-      <img src="https://img.shields.io/badge/status-active-2d1b69?style=flat-square" />
+      <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
     </td>
   </tr>
 </table>
