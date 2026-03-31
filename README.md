@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221,1a0533,2d1b69&height=240&animation=twinkling&text=Anurag%20A%20S&fontColor=ffffff" alt="Anurag A S" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221,1a0533,2d1b69&height=200&animation=twinkling&text=Anurag%20A%20S&fontColor=ffffff&fontAlignY=35" alt="Anurag A S" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=c084fc&center=true&vCenter=true&lines=Hi%2C+I%27m+Anurag+%F0%9F%91%8B%3BBuilder%3BProblem+Solver%3BArchitect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=c084fc&center=true&vCenter=true&lines=Hi%2C+I%27m+Anurag+%F0%9F%91%8B%3BSoftware Developer%3BArchitect" alt="Typing Animation" />
 </div>
 
 ## 🧑‍💻 About Me
