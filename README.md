@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221,1a0533,2d1b69&height=120&animation=twinkling&text=Anurag%20A%20S&fontColor=ffffff" alt="Anurag A S" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221,1a0533,2d1b69&height=240&animation=twinkling&text=Anurag%20A%20S&fontColor=ffffff" alt="Anurag A S" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Electronics Engineer working on large scale distributed systems software problems. Passionate about everything I do, I thrive on solving the most ambiguous problems.
+Software developer working on large scale distributed systems software problems. Passionate about everything I do, I thrive on solving the most ambiguous problems.
 
 *My experience spans from foundational hardware and CPU architectural design at Arm all the way up to cloud-scale software architecture at Amazon.*
 
