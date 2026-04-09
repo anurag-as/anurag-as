@@ -46,7 +46,7 @@ Software developer working on large scale distributed systems software problems.
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Perihelion">☄️ Perihelion</a></h3>
-      <img src="https://img.shields.io/badge/status-development-2d1b69?style=flat-square" />
+      <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
       <p>Perihelion is a browser-based near-Earth object (NEO) tracker that visualises asteroids, comets, and meteor shower radiants in real-time 3D using Bonsai.</p>
     </td>
   </tr>
