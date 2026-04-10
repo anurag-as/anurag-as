@@ -43,18 +43,19 @@ Software developer working on large scale distributed systems software problems.
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Caravault">🚐🔒🔄 Caravault</a></h3>
       <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
-      <img src="https://img.shields.io/github/stars/anurag-as/Caravault?style=flat-square&color=c084fc" />
+      <img src="https://img.shields.io/github/stars/anurag-as/Caravault?style=flat-square&color=c084fc&cacheSeconds=0" />
       <p>Offline-first file sync across multiple drives using version vectors, Merkle diffing, and majority quorum consensus.</p>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Bonsai">🌳 Bonsai</a></h3>
       <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
-      <img src="https://img.shields.io/github/stars/anurag-as/Bonsai?style=flat-square&color=c084fc" />
+      <img src="https://img.shields.io/github/stars/anurag-as/Bonsai?style=flat-square&color=c084fc&cacheSeconds=0" />
       <p>A self-tuning Rust library that transparently switches between spatial index structures at runtime to maintain optimal query performance as your data evolves.</p>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Perihelion">☄️ Perihelion</a></h3>
       <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
+      <img src="https://img.shields.io/github/stars/anurag-as/Perihelion?style=flat-square&color=c084fc&cacheSeconds=0" />
       <p>Perihelion is a browser-based near-Earth object (NEO) tracker that visualises asteroids, comets, and meteor shower radiants in real-time 3D using Bonsai.</p>
     </td>
   </tr>
