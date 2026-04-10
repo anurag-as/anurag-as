@@ -32,16 +32,24 @@ Software developer working on large scale distributed systems software problems.
 
 ## 🚀 Projects
 
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanurag-as&query=%24.public_repos&label=Public+Repos&color=2d1b69&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/anurag-as?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=2d1b69&label=Total+Stars" alt="Total Stars" />
+</div>
+
 <table>
   <tr>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Caravault">🚐🔒🔄 Caravault</a></h3>
       <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
+      <img src="https://img.shields.io/github/stars/anurag-as/Caravault?style=flat-square&color=c084fc" />
       <p>Offline-first file sync across multiple drives using version vectors, Merkle diffing, and majority quorum consensus.</p>
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/anurag-as/Bonsai">🌳 Bonsai</a></h3>
       <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
+      <img src="https://img.shields.io/github/stars/anurag-as/Bonsai?style=flat-square&color=c084fc" />
       <p>A self-tuning Rust library that transparently switches between spatial index structures at runtime to maintain optimal query performance as your data evolves.</p>
     </td>
     <td valign="top" width="33%">
