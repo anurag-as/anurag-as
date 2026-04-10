@@ -34,7 +34,7 @@ Software developer working on large scale distributed systems software problems.
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanurag-as&query=%24.public_repos&label=Public+Repos&color=2d1b69&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/anurag-as?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=2d1b69&label=Total+Stars" alt="Total Stars" />
 </div>
 
