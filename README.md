@@ -68,11 +68,15 @@ Software developer working on large scale distributed systems software problems.
         <p>Perihelion is a browser-based near-Earth object (NEO) tracker that visualises asteroids, comets, and meteor shower radiants in real-time 3D using Bonsai.</p>
       </td>
       <td valign="top" width="33%">
+        <h3><a href="https://github.com/anurag-as/BlazeTree">🔥 BlazeTree</a></h3>
+        <img src="https://img.shields.io/badge/status-development-2d1b69?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/anurag-as/BlazeTree?style=flat-square&color=c084fc&cacheSeconds=0" />
+        <p>A browser-based wildfire spread simulator powered by Bonsai's adaptive spatial index, watch the forest burn and the index restructure itself in real time.</p>
+      </td>
+      <td valign="top" width="33%">
         <h3><a href="https://github.com/anurag-as/SendIt">🧗 SendIt</a></h3>
         <img src="https://img.shields.io/badge/status-development-2d1b69?style=flat-square" />
         <p>A mobile app for indoor climbers to photograph, tag, and track climbing routes — all stored on your device.</p>
-      </td>
-      <td valign="top" width="33%">
       </td>
     </tr>
   </table>
