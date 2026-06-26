@@ -68,9 +68,9 @@ Software developer working on large scale distributed systems software problems.
         <p>Perihelion is a browser-based near-Earth object (NEO) tracker that visualises asteroids, comets, and meteor shower radiants in real-time 3D using Bonsai.</p>
       </td>
       <td valign="top" width="33%">
-        <h3><a href="https://github.com/anurag-as/SendIt">🧗 SendIt</a></h3>
-        <img src="https://img.shields.io/badge/status-development-2d1b69?style=flat-square" />
-        <p>A mobile app for indoor climbers to photograph, tag, and track climbing routes — all stored on your device.</p>
+        <h3><a href="https://simplevisaphotos.com">📸 SimpleVisaPhotos</a></h3>
+        <img src="https://img.shields.io/badge/status-release-2d1b69?style=flat-square" />
+        <p>A simple web app for creating compliant visa and passport photos.</p>
       </td>
     </tr>
   </table>
