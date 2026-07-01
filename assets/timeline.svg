@@ -5,21 +5,16 @@
       .line { stroke: #2d1b69; stroke-width: 2; }
       .dot { fill: #c084fc; }
       .dot-ring { fill: none; stroke: #c084fc; stroke-width: 1.5; }
-      .dot-ping { fill: none; stroke: #c084fc; stroke-width: 1.5; }
       .company { fill: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 15px; font-weight: 700; }
       .role { fill: #c084fc; font-family: 'Segoe UI', sans-serif; font-size: 12px; }
       .date { fill: #6b7280; font-family: 'Segoe UI', sans-serif; font-size: 11px; }
-
-      .entry1 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.1s; opacity: 0; }
-      .entry2 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.4s; opacity: 0; }
-      .entry3 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.7s; opacity: 0; }
-      .entry4 { animation: fadeSlide 0.6s ease forwards; animation-delay: 1.0s; opacity: 0; }
-      .dot1   { animation: popIn 0.4s ease forwards; animation-delay: 0.1s; opacity: 0; }
-      .dot2   { animation: popIn 0.4s ease forwards; animation-delay: 0.4s; opacity: 0; }
-      .dot3   { animation: popIn 0.4s ease forwards; animation-delay: 0.7s; opacity: 0; }
-      .dot4   { animation: popIn 0.4s ease forwards; animation-delay: 1.0s; opacity: 0; }
+      .entry1 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.4s; opacity: 0; }
+      .entry2 { animation: fadeSlide 0.6s ease forwards; animation-delay: 0.7s; opacity: 0; }
+      .entry3 { animation: fadeSlide 0.6s ease forwards; animation-delay: 1.0s; opacity: 0; }
+      .dot1   { animation: popIn 0.4s ease forwards; animation-delay: 0.4s; opacity: 0; }
+      .dot2   { animation: popIn 0.4s ease forwards; animation-delay: 0.7s; opacity: 0; }
+      .dot3   { animation: popIn 0.4s ease forwards; animation-delay: 1.0s; opacity: 0; }
       .vline  { animation: growLine 0.8s ease forwards; animation-delay: 0s; transform-origin: top; transform: scaleY(0); }
-
       @keyframes fadeSlide {
         from { opacity: 0; transform: translateX(18px); }
         to   { opacity: 1; transform: translateX(0); }
@@ -34,41 +29,36 @@
       }
     </style>
   </defs>
-
   <!-- Background -->
   <rect width="600" height="340" rx="12" class="bg" />
-
   <!-- Vertical timeline line -->
-  <line x1="60" y1="40" x2="60" y2="300" class="line vline" />
-
-  <!-- Entry 2: Amazon -->
-  <g class="dot2">
+  <line x1="60" y1="140" x2="60" y2="290" class="line vline" />
+  <!-- Entry 1: Amazon -->
+  <g class="dot1">
     <circle cx="60" cy="140" r="7" class="dot" />
     <circle cx="60" cy="140" r="11" class="dot-ring" />
   </g>
-  <g class="entry2">
+  <g class="entry1">
     <text x="85" y="136" class="company">Amazon</text>
     <text x="85" y="152" class="role">Software Development Engineer</text>
     <text x="85" y="167" class="date">Apr 2022 – Apr 2026</text>
   </g>
-
-  <!-- Entry 3: Arm -->
-  <g class="dot3">
+  <!-- Entry 2: Arm -->
+  <g class="dot2">
     <circle cx="60" cy="220" r="7" class="dot" />
     <circle cx="60" cy="220" r="11" class="dot-ring" />
   </g>
-  <g class="entry3">
+  <g class="entry2">
     <text x="85" y="216" class="company">Arm</text>
     <text x="85" y="232" class="role">CPU Engineer</text>
     <text x="85" y="247" class="date">Jul 2019 – Apr 2022</text>
   </g>
-
-  <!-- Entry 4: LogMeIn -->
-  <g class="dot4">
+  <!-- Entry 3: LogMeIn -->
+  <g class="dot3">
     <circle cx="60" cy="290" r="7" class="dot" />
     <circle cx="60" cy="290" r="11" class="dot-ring" />
   </g>
-  <g class="entry4">
+  <g class="entry3">
     <text x="85" y="286" class="company">LogMeIn</text>
     <text x="85" y="302" class="role">Intern</text>
     <text x="85" y="317" class="date">Jan 2019 – Jul 2019</text>
